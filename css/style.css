@@ -810,7 +810,7 @@ span.eme {
 	box-shadow:0px 1px 8px 0px rgba(158, 158, 158, 0.75);
 }
 .grid1:hover {
-    background: #12ccc3;
+    background: #6bf7f0;
 }
 .grid1 h4 {
     font-size: 20px;
@@ -1257,12 +1257,12 @@ a.read-agileits:hover {
     padding: 1.5em 2em;
     font-size: 1em;
     line-height: 2em;
-    color: #999;
+    color: rgb(94, 89, 89);
 	border-top-color: transparent;
 	-webkit-box-shadow: 0px 0px 1px #aaa;
 	-moz-box-shadow: 0px 0px 1px #aaa; 
     box-shadow: 0px 0px 1px #aaa;
-    background: #fff;
+    background: rgb(202, 195, 241);
 }
 a.pa_italic label {
     cursor: pointer;
@@ -1273,7 +1273,7 @@ a.pa_italic:focus {
     text-decoration: none;
 } 
 .panel-default > .panel-heading + .panel-collapse > .panel-body {
-    border-top-color: #fff;
+    border-top-color: rgb(161, 145, 145);
 }
 /*-- //panel --*/
 /*-- icons --*/
@@ -1731,7 +1731,7 @@ table.table.table-striped,.table-bordered,.bs-docs-example {
 
 .con-text p,
 .con-text p a {
-	color: #fff;
+	color: rgb(241, 186, 186);
 	font-size: 3em;
 	font-weight: 300;
 	margin-bottom: 0.5em;
@@ -1752,7 +1752,7 @@ table.table.table-striped,.table-bordered,.bs-docs-example {
 }
 
 .con-text h6 {
-	color: #fff;
+	color: rgb(189, 158, 247);
 	font-size: 1.2em;
 	font-weight: 300;
 	line-height: 1em;
@@ -1910,7 +1910,7 @@ table.table.table-striped,.table-bordered,.bs-docs-example {
 
 .grid figure figcaption {
 	padding: 2em;
-	color: #fff;
+	color: rgb(245, 183, 183);
 	text-transform: uppercase;
 	font-size: 1.25em;
 	-webkit-backface-visibility: hidden;
@@ -1925,7 +1925,7 @@ table.table.table-striped,.table-bordered,.bs-docs-example {
 .grid figure figcaption,
 .grid figure figcaption > a {
 	position: absolute;
-top: 50%;
+	top: 50%;
     left: 0;
     width: 100%;
     height: 50%;
@@ -2030,7 +2030,7 @@ figure.effect-apollo:hover p {
 /*-- footer --*/
 
 .footer_top_agile_w3ls {
-	background: #141415;
+	background: #191969;
 	padding: 4em 0;
 }
 
@@ -2039,7 +2039,7 @@ figure.effect-apollo:hover p {
 }
 
 .footer_wthree_agile{
-	background: #0f0f10;
+	background: #2f2f49;
 	padding: 1em 0;
 }
 
